@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Edugit
 ## Hello
 ### metoo
@@ -40,4 +39,3 @@ public class controller{
 
 ### 강조구문 및 취소구문
 **나는** **~~밥을~~** 핫도그를 먹는다.
->>>>>>> d7c0ee6148f92a8a2934ffe961fb072064bce2d2
